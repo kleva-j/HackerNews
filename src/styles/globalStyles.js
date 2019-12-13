@@ -32,5 +32,3 @@ export const StoriesContainerWrapper = styled.main`
   padding: 20px 15px;
   margin: auto;
 `;
-
-// export 
